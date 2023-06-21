@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\IDSBookingSystem\IDS.Services\bin\Debug\net7.0\IDS.Service.deps.json
+C:\Users\hp\source\repos\IDSBookingSystem\IDS.Services\bin\Debug\net7.0\IDS.Service.dll
+C:\Users\hp\source\repos\IDSBookingSystem\IDS.Services\bin\Debug\net7.0\IDS.Service.pdb
+C:\Users\hp\source\repos\IDSBookingSystem\IDS.Services\bin\Debug\net7.0\IDS.Core.dll
+C:\Users\hp\source\repos\IDSBookingSystem\IDS.Services\bin\Debug\net7.0\IDS.Core.pdb
+C:\Users\hp\source\repos\IDSBookingSystem\IDS.Services\obj\Debug\net7.0\IDS.Service.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\IDSBookingSystem\IDS.Services\obj\Debug\net7.0\IDS.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\IDSBookingSystem\IDS.Services\obj\Debug\net7.0\IDS.Service.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\IDSBookingSystem\IDS.Services\obj\Debug\net7.0\IDS.Service.AssemblyInfo.cs
+C:\Users\hp\source\repos\IDSBookingSystem\IDS.Services\obj\Debug\net7.0\IDS.Service.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IDSBookingSystem\IDS.Services\obj\Debug\net7.0\IDS.Service.csproj.CopyComplete
+C:\Users\hp\source\repos\IDSBookingSystem\IDS.Services\obj\Debug\net7.0\IDS.Service.dll
+C:\Users\hp\source\repos\IDSBookingSystem\IDS.Services\obj\Debug\net7.0\refint\IDS.Service.dll
+C:\Users\hp\source\repos\IDSBookingSystem\IDS.Services\obj\Debug\net7.0\IDS.Service.pdb
+C:\Users\hp\source\repos\IDSBookingSystem\IDS.Services\obj\Debug\net7.0\ref\IDS.Service.dll
+C:\Users\hp\source\repos\IDSBookingSystem\IDS.Services\bin\Debug\net7.0\IDS.Service.runtimeconfig.json
+C:\Users\hp\source\repos\IDSBookingSystem\IDS.Services\obj\Debug\net7.0\IDS.Service.genruntimeconfig.cache
